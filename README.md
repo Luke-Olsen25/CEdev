@@ -2,7 +2,7 @@
 This is my use of the CEdev toolchain for the TI84 Plus CE Graphing Calculator, which can be found here:
 - https://github.com/CE-Programming/toolchain
 - https://ce-programming.github.io/toolchain/index.html#
-- The toolchain allows for using C/C++ on the TI84 Plus CE Graphing Calculator and includes many libraries to experiment with.
+- The toolchain allows for using C/C++ on the TI84 Plus CE Graphing Calculator and includes many libraries to experiment with. I would suggest downloading all necessary files from the original repo.
 # More resources for the TI84 Calculator: 
 - https://education.ti.com/en/products/computer-software/ti-connect-ce-sw
 - https://yvantt.github.io/arTIfiCE/
